@@ -1,0 +1,12 @@
+html { background-color: #545454; }
+body { font-family: 'Merriweather', serif; background-color: #fff; margin: 0;}
+h1,h2,h3,h4,h5,h6 { font-family: 'Source Sans Pro', sans-serif; line-height: 1;}
+
+nav { padding: 20px; background-color: #5ebab1; }
+
+.container { max-width: 1240px; margin: 0 auto; padding: 20px; position: relative;}
+
+.video-list--item { display: flex; flex-wrap: wrap; padding: 20px;}
+.video-list--item img { width: 240px; height: 100%; border: 5px solid #18B8F0; border-radius: 10px;}
+.video-list--item div { padding-left: 20px;}
+.video-list--item h2, .video-list--item p { display: block;}
