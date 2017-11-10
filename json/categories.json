@@ -1,0 +1,19 @@
+{
+    "categories": [
+        {
+            "id": "1",
+            "slug": "cooking",
+            "title": "Cooking"
+        },
+        {
+            "id": "2",
+            "slug": "comedy",
+            "title": "Comedy"
+        },
+        {
+            "id": "3",
+            "slug": "music",
+            "title": "Music"
+        }
+    ]
+}
